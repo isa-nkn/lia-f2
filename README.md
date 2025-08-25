@@ -1,4 +1,5 @@
 !!!TODO O PROJETO FOI FEITO A PARTIR DO MATERIAL DISPONÍVEL EM: https://github.com/mrdbourke/simple-local-rag COM INTUITO DE ESTUDO!!!
+
 !!!EVERYTHING ON THIS PROJECT WAS MADE WITH THE MATERIAL AVAILABLE ON:  https://github.com/mrdbourke/simple-local-rag WITH THE INTENTION OF STUDYING!!!
 
 # Simple Local RAG Tutorial
